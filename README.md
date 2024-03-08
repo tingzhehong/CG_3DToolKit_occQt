@@ -1,7 +1,11 @@
+CG_3DToolKit_occQt
+===========
+![image](https://github.com/tingzhehong/CG_3DToolKit_occQt/main/blob/Resources/occQt.jpg)
+
 MIT License
 ===========
 
-Copyright (c) 2018 Shing Liu (eryar@163.com)
+Copyright (c) 2024 hotize (hotize@163.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -87,11 +91,3 @@ https://github.com/shrdluk
 
 Paul Hentschel
 https://github.com/hpmachining
-
-
-Feedback
---------
-For more info, please visit the web site:
-http://www.cppblog.com/eryar/
-
-Shing Liu: eryar@163.com
