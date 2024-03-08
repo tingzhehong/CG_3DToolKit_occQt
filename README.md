@@ -1,6 +1,6 @@
 CG_3DToolKit_occQt
 ===========
-![image](https://github.com/tingzhehong/CG_3DToolKit_occQt/main/blob/Resources/occQt.jpg)
+![image](https://github.com/tingzhehong/CG_3DToolKit_occQt/blob/main/Resources/occQt.jpg)
 
 MIT License
 ===========
