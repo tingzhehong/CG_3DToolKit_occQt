@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/FitAll.png</file>
+        <file>Resources/Home.png</file>
+        <file>Resources/Pan.png</file>
+        <file>Resources/Rotate.png</file>
+        <file>Resources/Zoom.png</file>
+        <file>Resources/cone.png</file>
+        <file>Resources/cylinder.png</file>
+        <file>Resources/sphere.png</file>
+        <file>Resources/box.png</file>
+        <file>Resources/torus.png</file>
+        <file>Resources/chamfer.png</file>
+        <file>Resources/fillet.png</file>
+        <file>Resources/lamp.png</file>
+        <file>Resources/common.png</file>
+        <file>Resources/cut.png</file>
+        <file>Resources/fuse.png</file>
+        <file>Resources/extrude.png</file>
+        <file>Resources/loft.png</file>
+        <file>Resources/revolve.png</file>
+        <file>Resources/helix.png</file>
+        <file>Resources/view-back.svg</file>
+        <file>Resources/view-bottom.svg</file>
+        <file>Resources/view-front.svg</file>
+        <file>Resources/view-iso.svg</file>
+        <file>Resources/view-left.svg</file>
+        <file>Resources/view-right.svg</file>
+        <file>Resources/view-top.svg</file>
+        <file>Resources/recycle.png</file>
+        <file>Resources/tool-shading.png</file>
+        <file>Resources/tool-wireframe.png</file>
+        <file>Resources/measure.png</file>
+    </qresource>
+</RCC>
